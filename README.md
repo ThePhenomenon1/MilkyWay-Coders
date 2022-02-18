@@ -1,3 +1,4 @@
+![Screenshot 2022-02-18 at 18-20-18 LinkedIn](https://user-images.githubusercontent.com/96743401/154717526-1c565131-c247-4613-8d80-81ef41ad1225.png)
 # MilkyWay-Coders
 Coders must unite against intergalactic invasion
 
