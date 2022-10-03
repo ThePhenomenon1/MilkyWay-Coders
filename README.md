@@ -11,6 +11,8 @@ Mightily displeased with the onscreen depictions of extraterrestrials, the brood
 Earth must do all it can to prepare. Only the greatest humans, that is the brave, the morally upright, the noble coders can be entrusted to deal with this emergency. 
 Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious AVAJs.
 
-What role shall Generalissimo Machine and his created minions play? More info to be released in the Django Web application I shall be deploying on Heroku.
+What role shall Generalissimo Machine and his created minions play? More info to be released in the Django Web application I deployed on cloud platform Railway.App:-
+
+https://pizza-delivery-superhero-api-production.up.railway.app
 
 The Phenomenon 
