@@ -1,7 +1,7 @@
 ![Screenshot 2022-02-20 at 19-10-34 Post Feed LinkedIn](https://user-images.githubusercontent.com/96743401/154853236-9e110d86-39b6-4158-a5ef-7099b933e42c.png)
 
 # MilkyWay-Coders
-Coders must unite against intergalactic invasion
+Brave Coders must unite against intergalactic invasion
 
 Yes Sirree, only coders can protect the round blue marble now.
 A meatbag on our planet produced a movie called "Aliens in Your Hood." 
