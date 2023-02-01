@@ -13,6 +13,6 @@ Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious
 
 What role shall Generalissimo Cyborg and his created minions play? More info to be released in the Django Web application I deployed on cloud platform Railway.App:-
 
-https://pizza-delivery-superhero-api-production.up.railway.app
+https://pizzadeliverysuperheroapi-production.up.railway.app
 
 The Phenomenon 
