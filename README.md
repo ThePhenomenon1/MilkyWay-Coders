@@ -3,7 +3,7 @@
 # MilkyWay-Coders
 Brave Coders must unite against intergalactic invasion
 
-Yes Sirree, only coders can protect the round blue marble now.
+Yes Sirree, only astute coders can protect the round blue marble now.
 It all started when a meatbag on our planet produced a movie titled "Aliens in Your Hood." 
 
 Shortly thereafter, a freakish arrangement of solar wind transported this movie's signals to a mysterious exoplanet called Lataf Rorre.
@@ -12,7 +12,7 @@ Mightily displeased with the onscreen depictions of extraterrestrials, the brood
 Earth must do all it can to prepare. Only the greatest humans, that is the brave, the morally upright, the noble coders can be entrusted to deal with this emergency. 
 Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious AVAJs.
 
-What role shall the mysterious Generalissimo Cyborg and his created minions play? More info to be released in the Django Web application I deployed on cloud platform Railway.App:-
+What role shall the mysterious Generalissimo Cyborg and his created minions play? More info to be released on the Django Web application I have deployed on cloud platform Railway.App:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
