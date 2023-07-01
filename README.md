@@ -13,7 +13,7 @@ Earth must do all it can to prepare. Only the greatest humans, that is the brave
 Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious AVAJs.
 
 What role shall the mysterious Generalissimo Cyborg and his created minions play? Who are the Antiheroes who stand in his way?
-Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering really ooperate? 
+Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering Death really cooperate? 
 
 More info to be released on the Django Web application I have deployed on cloud platform Railway.App:-
 
