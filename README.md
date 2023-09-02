@@ -15,7 +15,7 @@ Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious
 What role shall the mysterious Generalissimo Cyborg and his created minions play? Who are the Antiheroes who stand in his way?
 Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering Death really cooperate? 
 
-More info to be released on the Django Web application I have deployed on cloud platform Railway.App:-
+More info to be released on the Django Web application I have deployed on the cloud platform Railway:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
