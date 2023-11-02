@@ -13,7 +13,7 @@ Earth must do all it can to prepare. Only the greatest humans, that is the brave
 Two honourable tribes have been assembled, the valorous NOHTYPs and the glorious AVAJs.
 
 What role shall the mysterious Generalissimo Cyborg and his created minions play? Who are the Antiheroes who stand in his way?
-Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering Death cooperate together against impeding doom? 
+Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering Death cooperate together against impeding doom? Shall Electric Woman and the Organic Craft of War arrive in time? 
 
 More info to be released on the Django Web application I have deployed on the cloud platform Railway:-
 
