@@ -3,7 +3,7 @@
 # MilkyWay-Coders
 Brave Coders must unite against intergalactic invasion
 
-Yes Sirree, only astute coders can protect the round blue marble now.
+Yes Sirree, only astute coders can protect our round blue marble now.
 It all started when a meatbag on our planet produced a movie titled "Aliens in Your Hood." 
 
 Shortly thereafter, a freakish arrangement of solar wind transported this movie's signals to a mysterious exoplanet called Lataf Rorre.
@@ -15,7 +15,7 @@ Two honourable tribes have been assembled, the valorous NOHTYPs, the heroic SCRI
 What role shall the mysterious Generalissimo Cyborg and his created minions play? Who are the Antiheroes who stand in his way?
 Can this motley crew featuring Dragon Tamer, Whirlwind and Whispering Death cooperate together against impeding doom? Shall Electric Woman and the Organic Craft of War arrive in time? 
 
-More info to be released on the Django Web application I have deployed on the Railway cloud:-
+More juicy info to be released on the Django Web application I have deployed on the Railway cloud:-
 
 https://pizzadeliverysuperheroapi-production.up.railway.app
 
